@@ -1,1 +1,0 @@
-console.log('Affiliate Campaign Bot is ready!');
